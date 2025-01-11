@@ -1,2 +1,2 @@
-# s74
-Hey there! 👋
+# Hello World 👋
+Studying software engineering
