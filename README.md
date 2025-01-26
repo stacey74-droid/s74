@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Stacey</h1>
-<h3 align="center">I am studying software engineering and i'm passionate to learn about new technologies</h3>
+<h3 align="center">How did the developer fix the broken Git repository?They just needed a little "commitment"!</h3>
 <p>
  <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN5MXByZjJ1ZWExY2U1eTcxcHN2MWNndnowc244eHlucHVwbHZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aer096d3vD4rYVsgNn/giphy.gif"  />
 <p>
